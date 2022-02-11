@@ -1,0 +1,23 @@
+{
+  "id": "2675626",
+  "name": "test",
+  "font_family": "fontFamily",
+  "css_prefix_text": "el-icon-test-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19567392",
+      "name": "数据库台账",
+      "font_class": "data1",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "20409715",
+      "name": "数据库审计",
+      "font_class": "data2",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    }
+  ]
+}

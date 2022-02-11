@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "fontFamily"; /* Project id 2675626 */
+  src: url('iconfont.woff2?t=1626315222166') format('woff2'),
+       url('iconfont.woff?t=1626315222166') format('woff'),
+       url('iconfont.ttf?t=1626315222166') format('truetype');
+}
+
+.fontFamily {
+  font-family: "fontFamily" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="el-icon-test"], [class*=" el-icon-ump"] {
+  font-family:"fontFamily" !important;
+  /* 以下内容参照第三方图标库本身的规则 */
+  font-size: 18px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-test-data1:before {
+  content: "\e695";
+}
+
+.el-icon-test-data2:before {
+  content: "\e61e";
+}
+

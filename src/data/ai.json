@@ -1,0 +1,772 @@
+
+  [
+    {
+      "propId": 1,
+      "datasetList": [
+        {
+          "view": 9777,
+          "viewNumber": 1443,
+          "datasetName": "不同语速多种方言、普通话人手机交互、春节问候词数据集1"
+        },
+        {
+          "view": 9267,
+          "viewNumber": 462,
+          "datasetName": "2千人含敞篷车、电动车车载环境数据集"
+        },
+        {
+          "view": 8975,
+          "viewNumber": 226,
+          "datasetName": "英语翻录演讲内容数据集"
+        },
+        {
+          "view": 8029,
+          "viewNumber": 115,
+          "datasetName": "普通话及多地方言歌曲片段、段子音频数据集2"
+        },
+        {
+          "view": 7818,
+          "viewNumber": 84,
+          "datasetName": "不同语速汽车命令词数据集5"
+        },
+        {
+          "view": 7322,
+          "viewNumber": 121,
+          "datasetName": "多种情绪普通话数据集1"
+        },
+        {
+  
+          "view": 7317,
+          "viewNumber": 105,
+          "datasetName": "车载相关粤语数据集2"
+  
+        },
+        {
+  
+          "view": 6252,
+          "viewNumber": 82,
+          "datasetName": "车载环境家庭成员对话聊天数据集"
+        },
+        {
+          "view": 6221,
+          "viewNumber": 78,
+          "datasetName": "普通话新闻、人手机交互数据集1"
+        },
+        {
+  
+          "view": 6005,
+          "viewNumber": 107,
+  
+          "datasetName": "普通话新闻、聊天用语、人手机交互数据集2"
+  
+        }
+      ]
+    },
+    {
+      "propId": 2,
+      "datasetList": [
+        {
+  
+          "view": 9871,
+          "viewNumber": 1214,
+   
+          "datasetName": "红酒识别"
+     
+        },
+        {
+  
+          "view": 9734,
+          "viewNumber": 668,
+   
+          "datasetName": "无包装蔬菜数据集"
+        
+        },
+        {
+  
+          "view": 7899,
+          "viewNumber": 3481,
+      
+          "datasetName": "多人种手持物体数据集"
+         
+        },
+        {
+     
+          "view": 7136,
+          "viewNumber": 47,
+    
+          "datasetName": "菜品识别"
+       
+        },
+        {
+  
+          "view": 6444,
+          "viewNumber": 30,
+     
+          "datasetName": "图像去雾"
+  
+        },
+        {
+  
+          "view": 6427,
+          "viewNumber": 12,
+        
+          "datasetName": "纯色背景单个商品多角度数据集2"
+       
+        },
+        {
+          
+          "view": 6162,
+          "viewNumber": 822,
+          
+          "datasetName": "地标识别"
+        
+        },
+        {
+  
+          "view": 6027,
+          "viewNumber": 11,
+       
+          "datasetName": "图像对比度增强"
+          
+        },
+        {
+          
+          "view": 5731,
+          "viewNumber": 41,
+          
+          "datasetName": "超市货架商品数据集1"
+          
+        },
+        {
+          
+          "view": 5341,
+          "viewNumber": 32,
+          "datasetName": "动物识别"
+        }
+      ]
+    },
+    {
+      "propId": 3,
+      "datasetList": [
+        {
+          "view": 9879,
+          "viewNumber": 2693,
+     
+          "datasetName": "数字识别"
+         
+        },
+        {
+          
+          "view": 9713,
+          "viewNumber": 53,
+          "datasetName": "通用文字识别（高精度版）"
+     
+        },
+        {
+          
+          "view": 9056,
+          "viewNumber": 45,
+          "datasetName": "身份证识别"
+        },
+        {
+          
+          "view": 8065,
+          "viewNumber": 27,
+          "datasetName": "保单识别"
+        },
+        {
+          
+          "view": 7423,
+          "viewNumber": 63,
+          "datasetName": "小学数学习题封面、作答结果数据集"
+        },
+        {
+          "datasetId": 347,
+          "apiServiceId": 54,
+          "datasetPublishId": 296,
+          "datasetCount": 1,
+          "dataType": 4,
+          "dataSource": 12,
+          "mallCategory": 5,
+          "publicMethod": 1,
+          "paymentType": 3,
+          "view": 7244,
+          "viewNumber": 20,
+          "rate": 4.9,
+          "trialFreeCount": 10,
+          "identifier": "API202101280001",
+          "bestPrice": "0.032 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "定额发票识别",
+          "datasetOwner": "",
+          "datasetPublishDesc": "支持对各类定额发票的发票代码、发票号码、金额、发票所在地、发票金额小写、省、市7个关键字段进行结构化识别。",
+          "datasetPublishImg": "https://datahub.bj.bcebos.com/trade/icons/category/mallCate5.svg",
+          "datasetPublishTime": "2021-02-05T19:40:00.000+00:00",
+          "isTrain": 0,
+          "trainType": 0
+        },
+        {
+          
+          "view": 7157,
+          "viewNumber": 38,
+          "datasetName": "OCR屏幕手写生僻字、中英文数据集"
+        },
+        {
+         
+          "view": 6403,
+          "viewNumber": 20,
+          "datasetName": "机动车销售发票识别"
+        },
+        {
+          
+          "view": 6403,
+          "viewNumber": 9,
+          "datasetName": "出生医学证明识别"
+        },
+        {
+          
+          "view": 6315,
+          "viewNumber": 8,
+          "datasetName": "办公文档识别"
+        }
+      ]
+    },
+    {
+      "propId": 4,
+      "datasetList": [
+        {
+          
+          "viewNumber": 30,
+          "rate": 4.6,
+          "datasetName": "DNN语言模型"
+        },
+        {
+          "view": 5234,
+          "viewNumber": 48,
+          "datasetName": "自动抽取新闻文本中的关键信息，进而生成指定长度的新闻摘要"
+         
+        },
+        {
+          "view": 4284,
+          "viewNumber": 23,
+          "datasetName": "多类别人车交互文本数据集1"
+        
+        },
+        {
+          
+          "view": 2460,
+          "viewNumber": 58,
+          "rate": 4.8,
+          "trialFreeCount": 10,
+          "identifier": "API202102050018",
+          "bestPrice": "0.0026 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "地址识别"
+        },
+        {
+          
+          "view": 2280,
+          "viewNumber": 28,
+          "rate": 4.6,
+          "trialFreeCount": 10,
+          "identifier": "API202102050012",
+          "bestPrice": "0.0026 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "文本纠错",
+          "trainType": 0
+        },
+        {
+          
+          "view": 1285,
+          "viewNumber": 12,
+          "rate": 4.7,
+          "trialFreeCount": 0,
+          "identifier": "SQJ003724",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "人音箱交互类数据集"
+        },
+        {
+          
+          "view": 176,
+          "viewNumber": 17,
+          "rate": 4.5,
+          "trialFreeCount": 10,
+          "identifier": "API202102050004",
+          "bestPrice": "0.002 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "词向量表示"
+        },
+        {
+          
+          "view": 39269,
+          "viewNumber": 13,
+          "rate": 4.9,
+          "trialFreeCount": 10,
+          "identifier": "API202102050008",
+          "bestPrice": "0.0145 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "依存句法分析"
+        },
+        {
+          
+          "view": 37438,
+          "viewNumber": 7,
+          "rate": 4.5,
+          "trialFreeCount": 0,
+          "identifier": "SQJ006473",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "粤语人车交互文本数据集"
+        },
+        {
+          
+          "view": 33148,
+          "viewNumber": 37,
+          "rate": 4.8,
+          "trialFreeCount": 0,
+          "identifier": "SQJ008589",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "小初高英文教材单词转写数据集"
+        }
+      ]
+    },
+    {
+      "propId": 5,
+      "datasetList": [
+        {
+          
+          "view": 4145,
+          "viewNumber": 134,
+          "rate": 4.6,
+          "trialFreeCount": 10,
+          "identifier": "API202102060005",
+          "bestPrice": "0.53 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "人脸实名认证"
+        },
+        {
+          
+          "view": 4057,
+          "viewNumber": 20,
+          "rate": 4.8,
+          "trialFreeCount": 10,
+          "identifier": "API202102050030",
+          "bestPrice": "0.006 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "手部关键点识别"
+        },
+        {
+          
+          "view": 2013,
+          "viewNumber": 829,
+          "rate": 4.6,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0011787",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "网图人像分割数据集"
+        },
+        {
+          
+          "view": 39788,
+          "viewNumber": 21,
+          "rate": 4.8,
+          "trialFreeCount": 10,
+          "identifier": "API202102050029",
+          "bestPrice": "按需收费",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "人流量统计-动态版"
+        },
+        {
+          
+          "view": 36928,
+          "viewNumber": 21,
+          "rate": 5,
+          "trialFreeCount": 10,
+          "identifier": "API202102050021",
+          "bestPrice": "0.089 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "皮肤分析"
+        },
+        {
+          
+          "view": 35576,
+          "viewNumber": 8,
+          "rate": 4.5,
+          "trialFreeCount": 10,
+          "identifier": "API202102050023",
+          "bestPrice": "0.0235 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "肤色检测"
+        },
+        {
+          
+          "view": 33497,
+          "viewNumber": 19,
+          "rate": 4.6,
+          "trialFreeCount": 10,
+          "identifier": "API202102060004",
+          "bestPrice": "3000 元/月",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "在线图片活体检测"
+        },
+        {
+          
+          "view": 33012,
+          "viewNumber": 14,
+          "rate": 4.7,
+          "trialFreeCount": 10,
+          "identifier": "API202102050002",
+          "bestPrice": "0.0091 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "人脸属性编辑"
+        },
+        {
+          
+          "view": 32824,
+          "viewNumber": 5,
+          "rate": 4.8,
+          "trialFreeCount": 10,
+          "identifier": "API202102050026",
+          "bestPrice": "5000 元/月",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "人体检测和属性识别"
+        },
+        {
+          
+          "view": 32801,
+          "viewNumber": 61,
+          "rate": 5,
+          "trialFreeCount": 10,
+          "identifier": "API202102060008",
+          "bestPrice": "0.0153 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "人脸融合"
+        }
+      ]
+    },
+    {
+      "propId": 6,
+      "datasetList": [
+        {
+          
+          "view": 9981,
+          "viewNumber": 2449,
+          "rate": 4.8,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0014782",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "英文单词多种形式数据集"
+        },
+        {
+          
+          "view": 9803,
+          "viewNumber": 230,
+          "rate": 4.6,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0018472",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "粤语人手机交互数据集"
+        },
+        {
+          
+          "view": 8948,
+          "viewNumber": 5,
+          "rate": 4.8,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0017081",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "贵州方言银行来电回应数据集"
+        },
+        {
+          
+          "view": 7663,
+          "viewNumber": 3,
+          "rate": 4.9,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0019371",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "不同距离多动作脚上鞋子数据集"
+        },
+        {
+       
+          "view": 7386,
+          "viewNumber": 7,
+          "rate": 4.8,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0016505",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "多种食品、果蔬、饮品数据集"
+        },
+        {
+          
+          "view": 4413,
+          "viewNumber": 3,
+          "rate": 4.6,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0017196",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "OCR屏幕手写单个汉字数据集5"
+        },
+        {
+          
+          "view": 1810,
+          "viewNumber": 7,
+          "rate": 4.9,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0015775",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "ios设备带动作脚上鞋子、光脚、穿袜子脚数据集"
+        },
+        {
+          
+          "view": 39634,
+          "viewNumber": 2,
+          "rate": 4.8,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0019297",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "屏幕手写相似文字数据集"
+        },
+        {
+         
+          "view": 37308,
+          "viewNumber": 5,
+          "rate": 4.6,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0019087",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "不同语速车载相关人车交互数据集"
+        },
+        {
+          
+          "view": 35577,
+          "viewNumber": 7,
+          "rate": 4.6,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0016168",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "不同语速新年祝福语数据集"
+        }
+      ]
+    },
+    {
+      "propId": 7,
+      "datasetList": [
+        {
+          
+          "view": 9622,
+          "viewNumber": 52,
+          "rate": 4.7,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0012034",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "ios设备采集多类别右脚鞋子数据集"
+        },
+        {
+          
+          "view": 1552,
+          "viewNumber": 21,
+          "rate": 4.7,
+          "trialFreeCount": 0,
+          "identifier": "SQJ005371",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "不同类别多个物品视频数据集"
+        },
+        {
+          
+          "view": 531,
+          "viewNumber": 40,
+          "rate": 4.9,
+          "trialFreeCount": 0,
+          "identifier": "SQJ004484",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "相同类别多个物品视频数据集"
+        },
+        {
+          
+          "view": 39344,
+          "viewNumber": 1,
+          "rate": 4.8,
+          "trialFreeCount": 0,
+          "identifier": "SQJ002935",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "相对、绝对静止多种类物品数据集"
+        },
+        {
+          
+          "view": 37949,
+          "viewNumber": 7,
+          "rate": 4.6,
+          "trialFreeCount": 0,
+          "identifier": "SQJ009216",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "多角度多人脚上鞋子数据集2"
+        },
+        {
+          
+          "view": 37501,
+          "viewNumber": 18,
+          "rate": 4.7,
+          "trialFreeCount": 0,
+          "identifier": "SQJ007677",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "输入法滑行输入数据集"
+        },
+        {
+          
+          "view": 34834,
+          "viewNumber": 14,
+          "rate": 4.9,
+          "trialFreeCount": 0,
+          "identifier": "SQJ0010769",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "足球赛数据集"
+        },
+        {
+          
+          "view": 33522,
+          "viewNumber": 4,
+          "rate": 4.8,
+          "trialFreeCount": 0,
+          "identifier": "SQJ005743",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "多形状多颜色3个以上杯子数据集"
+        },
+        {
+          
+          "view": 32033,
+          "viewNumber": 12,
+          "rate": 4.5,
+          "trialFreeCount": 0,
+          "identifier": "SQJ007636",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "多角度多人脚上鞋子数据集1"
+        },
+        {
+          
+          "view": 28493,
+          "viewNumber": 9,
+          "rate": 4.9,
+          "trialFreeCount": 0,
+          "identifier": "SQJ007070",
+          "bestPrice": null,
+          "paymentDetail": "",
+          "linkAddress": "",
+          "datasetName": "采集箱采集多种商品数据集"
+        }
+      ]
+    },
+    {
+      "propId": 8,
+      "datasetList": [
+        {
+          
+          "view": 9866,
+          "viewNumber": 113,
+          "rate": 4.8,
+          "trialFreeCount": 1,
+          "identifier": "API202102050020",
+          "bestPrice": "0.07 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "知识问答"
+        },
+        {
+          
+          "view": 4948,
+          "viewNumber": 52,
+          "rate": 4.9,
+          "trialFreeCount": 1,
+          "identifier": "API202102050019",
+          "bestPrice": "0.0006 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "实体标注"
+        },
+        {
+          
+          "view": 26838,
+          "viewNumber": 39,
+          "rate": 5,
+          "trialFreeCount": 1,
+          "identifier": "API202102050022",
+          "bestPrice": "0.07 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "作文检索"
+        },
+        {
+          
+          "view": 25460,
+          "viewNumber": 20,
+          "rate": 4.7,
+          "trialFreeCount": 1,
+          "identifier": "API202102050033",
+          "bestPrice": "0.018 元/次",
+          "paymentDetail": "",
+          "linkAddress": null,
+          "datasetName": "汉语检索"
+        }
+      ]
+    }
+  ]
+
+

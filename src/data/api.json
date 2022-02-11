@@ -1,0 +1,171 @@
+{
+  "basicInfo": {
+    "url": "https://api.zhejiangresearch.com/disaster/linan",
+    "method": "GET",
+    "request": "http",
+    "formate": "application/json;charset=UTF-8"
+},
+  "requestParams": [
+    {"name": "cityid", "tip": "城市编号(联系客服下载)"},
+    {"name": "city", "tip": "城市名称 不要带市和区; 如: 青岛、铁西"},
+    {"name": "ip", "tip": "IP地址"}
+  ],
+  "returnParams": [
+    {"name": "GLID", "type": "varchar(128)", "isNull": "true" , "isAdd": "false" ,  "key": "PRI", "sheng": "[NULL]", "other": "[NULL]", "expression": "[NULL]", "tip": "-"},
+    {"name": "YHDID", "type": "varchar(500)", "isNull": "false", "isAdd": "false", "key": "[NULL]", "sheng": "[NULL]", "other": "[NULL]", "expression": "[NULL]", "tip": "统一编号"},
+    {"name": "YHDNAME","type": "varchar(500)", "isNull": "false", "isAdd": "false", "key": "[NULL]", "sheng": "[NULL]", "other": "[NULL]", "expression": "[NULL]", "tip": "隐患点名称"},
+    {"name": "PRJ_NO", "type": "varchar(128)", "isNull": "false", "isAdd": "false", "key": "[NULL]", "sheng": "[NULL]", "other": "[NULL]", "expression": "[NULL]", "tip": "项目编号"},
+    {"name": "PRJ_NAME", "type": "varchar(500)", "isNull": "false", "isAdd": "false", "key": "[NULL]", "sheng": "[NULL]", "other": "[NULL]", "expression": "[NULL]", "tip": "项目名称"},
+    {"name": "SFSB", "type": "varchar(12)", "isNull": "false", "isAdd":  "false", "key": "[NULL]", "sheng": "[NULL]", "other": "[NULL]", "expression": "[NULL]", "tip": "是否上报（状态0：未上报，状态1：已上报）"},
+    {"name": "BHHS", "type": "varchar(11)", "isNull": "false", "isAdd":  "false", "key": "[NULL]", "sheng": "[NULL]", "other": "[NULL]", "expression": "[NULL]", "tip": "保护户数"},
+    {"name": "BHRS", "type": "varchar(11)", "isNull": "false", "isAdd":  "false", "key": "[NULL]", "sheng": "[NULL]", "other": "[NULL]", "expression": "[NULL]", "tip": "保护人数"},
+    {"name": "THREATHOUSE", "type": "varchar(11)", "isNull": "false", "isAdd":  "false", "key": "[NULL]", "sheng": "[NULL]", "other": "[NULL]", "expression": "[NULL]", "tip": "威胁户数"},
+    {"name": "HOUSERPERSON","type": "varchar(11)", "isNull": "false", "isAdd":  "false", "key": "[NULL]", "sheng": "[NULL]", "other": "[NULL]", "expression": "[NULL]", "tip": "威胁人数"},
+    {"name": "prj_status",  "type": "varchar(11)", "isNull": "false", "isAdd":  "false", "key": "[NULL]", "sheng": "[NULL]", "other": "[NULL]", "expression": "[NULL]", "tip": "工程治理状态"}
+  ],
+
+  "example": [
+    {
+      "GLID" : "9589e05f5c7235b6015c724e25900001",
+      "YHDID" : "-",
+      "YHDNAME" : "前源村三下线11K+100m西侧",
+      "PRJ_NO" : "-",
+      "PRJ_NAME" : "长兴县白岘乡白岘村丁岕滑坡隐患治理工程",
+      "SFSB" : "0",
+      "BHHS" : "1",
+      "BHRS" : "3",
+      "THREATHOUSE" : "0",
+      "HOUSERPERSON" : "0",
+      "prj_status" : "-"
+    },
+    {
+      "GLID" : "9589e05f5ca6020a015cc381c9e95241",
+      "YHDID" : "331127010090",
+      "YHDNAME" : "柳山村门前山",
+      "PRJ_NO" : "3311272017gc030008",
+      "PRJ_NAME" : "景宁畲族自治县郑坑乡柳山村门前山滑坡隐患治理",
+      "SFSB" : "0",
+      "BHHS" : "3",
+      "BHRS" : "9",
+      "THREATHOUSE" : "0",
+      "HOUSERPERSON" : "0",
+      "prj_status" : "0"
+    },
+    {
+      "GLID" : "9589e05f5ca6020a015cc38786e45243",
+      "YHDID" : "331127020008",
+      "YHDNAME" : "汤北村上北溪",
+      "PRJ_NO" : "3311272017gc030010",
+      "PRJ_NAME" : "景宁畲族自治县东坑镇汤北村上北溪崩塌隐患治理",
+      "SFSB" : "0",
+      "BHHS" : "3",
+      "BHRS" : "10",
+      "THREATHOUSE" : "0",
+      "HOUSERPERSON" : "0",
+      "prj_status" : "0"
+    },
+    {
+      "GLID" : "9589e05f5cc82cab015cc9b7e24b0232",
+      "YHDID" : "331122030020",
+      "YHDNAME" : "双溪口乡塘孔村平坑自然村",
+      "PRJ_NO" : "3311222017gc010001",
+      "PRJ_NAME" : "缙云县双溪口乡塘孔村平坑自然村地质灾害治理工程",
+      "SFSB" : "0",
+      "BHHS" : "24",
+      "BHRS" : "100",
+      "THREATHOUSE" : "0",
+      "HOUSERPERSON" : "0",
+      "prj_status" : "0"
+    },
+    {
+      "GLID" : "9589e05f5cca03fe015cc5dd781281",
+      "YHDID" : "330703010006",
+      "YHDNAME" : "宅山村岩背自然村",
+      "PRJ_NO" : "3307032017gc040006",
+      "PRJ_NAME" : "金东区澧浦镇宅山村岩背自然村",
+      "SFSB" : "0",
+      "BHHS" : "0",
+      "BHRS" : "0",
+      "THREATHOUSE" : "0",
+      "HOUSERPERSON" : "0",
+      "prj_status" : "0"
+    },
+    {
+      "GLID" : "9589e05f5cca03fe015ccaf55d490c26",
+      "YHDID" : "330304010026",
+      "YHDNAME" : "泽雅镇五凤垟黄庄村陈周武屋后土质滑坡",
+      "PRJ_NO" : "3303042017gc010001",
+      "PRJ_NAME" : "瓯海区泽雅镇五凤垟黄庄村陈周武屋后滑坡治理工程",
+      "SFSB" : "0",
+      "BHHS" : "3",
+      "BHRS" : "6",
+      "THREATHOUSE" : "0",
+      "HOUSERPERSON" : "0",
+      "prj_status" : "0"
+    },
+    {
+      "GLID" : "9589e05f5cca03fe015ccb06e57b0c2e",
+      "YHDID" : "330304010033",
+      "YHDNAME" : "泽雅镇龙头村支存生屋后土质滑坡",
+      "PRJ_NO" : "3303042017gc010004",
+      "PRJ_NAME" : "瓯海区泽雅镇龙头村支存生屋后滑坡",
+      "SFSB" : "0",
+      "BHHS" : "2",
+      "BHRS" : "3",
+      "THREATHOUSE" : "0",
+      "HOUSERPERSON" : "0",
+      "prj_status" : "0"
+    },
+    {
+      "GLID" : "9589e05f5cca03fe015ccb07f8dd0c2f",
+      "YHDID" : "330304020004",
+      "YHDNAME" : "郭溪街道梅屿村兵营路21~35号屋后崩塌 ",
+      "PRJ_NO" : "3303042017gc010005",
+      "PRJ_NAME" : "郭溪街道梅屿村兵营路21~35号屋后崩塌",
+      "SFSB" : "0",
+      "BHHS" : "7",
+      "BHRS" : "76",
+      "THREATHOUSE" : "0",
+      "HOUSERPERSON" : "0",
+      "prj_status" : "0"
+    },
+    {
+      "GLID" : "9589e05f5cca03fe015ccb08ca690c30",
+      "YHDID" : "330304010025",
+      "YHDNAME" : "泽雅镇戈恬村后山土质滑坡",
+      "PRJ_NO" : "3303042017gc010006",
+      "PRJ_NAME" : "瓯海区泽雅镇戈恬村后山滑坡",
+      "SFSB" : "0",
+      "BHHS" : "20",
+      "BHRS" : "71",
+      "THREATHOUSE" : "0",
+      "HOUSERPERSON" : "0",
+      "prj_status" : "0"
+    },
+    {
+      "GLID" : "9589e05f5cca03fe015ccd85c9551237",
+      "YHDID" : "330203030001",
+      "YHDNAME" : "章水镇章溪村液化气站东侧泥石流",
+      "PRJ_NO" : "3302032017gc010005",
+      "PRJ_NAME" : "章水镇章溪村液化气站东侧泥石流",
+      "SFSB" : "0",
+      "BHHS" : "0",
+      "BHRS" : "0",
+      "THREATHOUSE" : "0",
+      "HOUSERPERSON" : "0",
+      "prj_status" : "0"
+    }
+  ],
+  "errCode": [
+    { "name": 200, "tip":"查询成功"},
+    { "name": 201, "tip":"查询无结果"},
+    { "name": 101, "tip":"系统错误"},
+    { "name": 202, "tip":"不支持的协议"},
+    { "name": 203, "tip":"缺少参数"},
+    { "name": 204, "tip":"subId不合法"},
+    { "name": 205, "tip":"IP受限"},
+    { "name": 206, "tip":"推送暂停"},
+    { "name": 207, "tip":"推送未就绪"},
+    { "name": 208, "tip":"订阅配额不足"}
+  ]
+}
